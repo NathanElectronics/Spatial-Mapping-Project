@@ -7,8 +7,8 @@ A lightweight, cost-effective 3D spatial mapping device designed for indoor expl
 ## 📌 Author / Contact Information
 
 **Nathan Chan**  
-Email: *nchan@domain.com*  
-GitHub: [github.com/nathanchan](https://github.com/nathanchan)
+Email: *nathanchan.1738@gmail.com*  
+GitHub: [github.com/NathanElectronics](https://github.com/NathanElectronics)
 
 ---
 
