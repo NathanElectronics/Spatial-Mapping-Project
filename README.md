@@ -15,7 +15,7 @@ GitHub: [github.com/NathanElectronics](https://github.com/NathanElectronics)
 ## 🐞 Bug Tracker
 
 Please report bugs or enhancement requests at:  
-[https://github.com/nathanchan/tof-spatial-mapper/issues](https://github.com/nathanchan/tof-spatial-mapper/issues)
+[nathanchan.1738@gmail.com](nathanchan.1738@gmail.com)
 
 ---
 
